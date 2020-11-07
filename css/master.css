@@ -1,0 +1,73 @@
+* {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  background-color: white;
+  color: black;
+  line-height: 1.4;
+  font-size: 11.5pt;
+  margin-left: ;
+}
+
+/* Sections */
+/* section {
+  margin: 7px 0px 0px 7px;
+}
+
+section.about {
+  margin-bottom: 10px;
+}
+
+section.projects {
+  margin-bottom: 10px;
+}
+
+section.films {
+  margin-bottom: 10px;
+}
+
+section.writing {
+  margin-bottom: 10px;
+} */
+/* Main Section */
+main {}
+
+/* details */
+details>summary {
+  list-style: none;
+}
+
+details>summary::-webkit-details-marker {
+  display: none;
+}
+
+/* list elements */
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {}
+
+/* links */
+a {
+  text-decoration: none;
+  font-size: 14pt;
+  color: black;
+}
+
+a:visited {}
+
+a:hover {
+  margin-left: 2.5px;
+  cursor: alias;
+  color: red;
+}
+
+/* Paragraph */
+p {
+  margin: 0px 0px 0px 0px;
+}

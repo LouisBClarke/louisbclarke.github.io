@@ -1,0 +1,15 @@
+a.back-button{
+  display: block;
+}
+
+/* Set the size of the div element that contains the map */
+#map {
+  height: 600px;
+  /* The height is 400 pixels */
+  width: 100%;
+  /* The width is the width of the web page */
+}
+
+.about-content{
+  max-width: 500px;
+}

@@ -1,0 +1,43 @@
+img{
+  width: 100%;
+  max-width: 700px;
+  height: auto;
+  /* padding-left: 15px; */
+}
+
+figcaption{
+  padding-bottom: 10px;
+  max-width: 700px;
+ }
+ .box{
+   margin-top: 20px;
+   max-width: 700px;
+   background-color: rgba(0,0,0,0);
+ }
+
+ .text-content{
+   max-width: 700px;
+   line-height: 1.2;
+   font-size: 11pt;
+   margin: 10px;
+ }
+
+/* .responsive {
+  padding: 0 6px;
+  float: left;
+  width: 49%;
+}
+
+@media only screen and (max-width: 500px) {
+  .responsive {
+    width: 49.99999%;
+    margin: 6px 0;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .responsive {
+    width: 100%;
+    margin: 6px 0;
+  }
+} */
