@@ -11,6 +11,10 @@ body {
   margin-left: ;
 }
 
+section.coverimg {
+  padding-left: 100px;
+}
+
 /* Sections */
 /* section {
   margin: 7px 0px 0px 7px;
