@@ -24,6 +24,12 @@ function initMap() {
       title: "Cape York",
       label: { color: '#ffffff', fontWeight: 'bold', fontSize: '14px', text: '3' },
     });
+    var markerX = new google.maps.Marker({
+      position: new google.maps.LatLng(64.17765788104718, -51.74507187044706),
+      map: map,
+      title: "Greenland National Museum and Archives",
+      label: { color: '#ffffff', fontWeight: 'bold', fontSize: '14px', text: '4' },
+    });
 
     google.maps.event.addListener(markerX, "click", function() {
       map.panTo(this.getPosition());
