@@ -17,6 +17,12 @@ section.coverimg {
   padding-left: 250px;
 }
 
+audio::-webkit-media-controls-play-button,
+audio::-webkit-media-controls-panel {
+  background-color: #FF0000;
+  color: #FFFFFF;
+}
+
 /* Sections */
 /* section {
   margin: 7px 0px 0px 7px;
